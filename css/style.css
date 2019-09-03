@@ -1,0 +1,15 @@
+
+.text-title {
+ font-family: sans-serif;
+ font-size: 40px;
+}
+.text-subtitle {
+ font-family: fantasy;
+ font-size: 30px;
+}
+.song {
+  font-family: serif;
+  font-size: 20px;
+  display: inline-block;
+  width: 200px;
+}
