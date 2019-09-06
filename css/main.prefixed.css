@@ -14,5 +14,6 @@
   width: 200px;
 } */
 body {
+  display: -ms-flexbox;
   display: flex;
 }
